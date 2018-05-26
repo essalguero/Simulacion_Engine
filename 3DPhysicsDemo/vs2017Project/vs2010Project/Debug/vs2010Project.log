@@ -1,0 +1,4 @@
+﻿  MAIN.CPP
+c:\users\eugenio.salguero\desktop\simulacion\3dphysicsdemo\main.cpp(74): warning C4244: 'argument': conversion from 'double' to 'real', possible loss of data
+c:\users\eugenio.salguero\desktop\simulacion\3dphysicsdemo\main.cpp(75): warning C4244: 'argument': conversion from 'double' to 'real', possible loss of data
+  vs2010Project.vcxproj -> C:\Users\eugenio.salguero\Desktop\Simulacion\3DPhysicsDemo\vs2017Project\Debug\PhysicsDemoByCarlosPegar.exe
